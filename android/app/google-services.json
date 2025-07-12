@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900192515972",
+    "project_id": "mobile-app-panel",
+    "storage_bucket": "mobile-app-panel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900192515972:android:804fc18743504283facfd1",
+        "android_client_info": {
+          "package_name": "com.alptech.iptv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1NRbR_cRhoZFS2_TICFVbJUFxS9GmyvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

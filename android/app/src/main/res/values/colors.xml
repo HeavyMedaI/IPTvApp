@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_color">#F3F6FA</color>
+    <color name="but_color">#103C64</color>
+    <color name="icon_background">#DEDEDE</color>
+    <color name="launcher_background">#43CBFF</color>
+    <color name="launcher_background_light">#DEDEDE</color>
+</resources>
